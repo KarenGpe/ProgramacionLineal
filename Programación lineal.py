@@ -1,13 +1,7 @@
 from pulp import *
 
 x = LpVariable("x", 0, 3)
-y = LpVariable("y", 0, 1)
+y = Lpmvc,v.xvdsmkdfkdkgkgbkslg
 
-prob = LpProblem("myProblem", LpMinimize)
-prob += x + y <= 2
-
-prob += -4*x + y
-
-status = prob.solve()
-
+asddsssssssssssssg     y {
 print(value(x), value(y))
