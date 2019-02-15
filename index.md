@@ -4,4 +4,4 @@ En esta página se muestran los magníficos ejemplos del magnífico curso de Pro
 
 
 ## Sympy
-Aprenimos a usar la biblioteca sympy
+Aprendimos a usar la biblioteca sympy
