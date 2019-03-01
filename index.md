@@ -16,6 +16,6 @@ Aprendimos a usar la biblioteca sympy
 
 ## Problemas Matemáticos
 
-Maximizar $$x_1 + x_2$$.
+Maximizar $$x_1 + x_2$$, sujeto a:
 
-Sujeto a: $$ x_1>0 $$
+$$ x_1>0. $$
